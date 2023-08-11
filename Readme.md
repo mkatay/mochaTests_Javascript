@@ -1,5 +1,7 @@
 
-# Könyvtár Kezelő Alkalmazás
+# 06134004 Junior frontend fejlesztő - gyakorlati minta vizsgafeladat : Javascript modul
+
+## Könyvtár Kezelő Alkalmazás
 
 Témakörök:
 - gyakorlati programozás
